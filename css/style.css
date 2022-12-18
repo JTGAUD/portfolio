@@ -3,6 +3,7 @@
 @import url(bloc.css);
 @import url(bouton.css);
 @import url(text.css);
+@import url(java.css);
 
 *{
     margin: 0%;
@@ -17,6 +18,10 @@ body{
     align-items: center;
     justify-content: center;
     display: flex;
+}
+
+.dark_mode{
+    background-color:  rgb(64, 46, 14);
 }
 
 @media screen and (max-width: 900px) {

@@ -1,0 +1,30 @@
+.bouton1{
+    color: whitesmoke;
+    background-color: rgba(253, 170, 16, 0.39);
+    font-size: 60px;
+    border: 5px solid black;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.bouton1:hover{
+    color:  rgba(253, 170, 16, 0.705);
+    background-color: whitesmoke;
+    transition: 1s;
+}
+
+.bouton2{
+    color: whitesmoke;
+    background-color: rgba(253, 170, 16, 0.39);
+    font-size: 40px;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-decoration: none;
+    display: block;
+}
+
+.bouton2:hover{
+    color:  rgba(253, 170, 16, 0.705);
+    background-color: whitesmoke;
+}
+

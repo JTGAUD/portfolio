@@ -1,0 +1,16 @@
+
+
+.header{
+    background-color:  rgb(255, 217, 147);
+    position: sticky;
+    top: 0;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+
+.card{
+    margin-left: auto;
+    margin-right: auto ;
+}
+

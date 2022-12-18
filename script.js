@@ -48,5 +48,6 @@ zwrd.addEventListener('click', function(){
         pctr.style = 'opacity: 0%; !important' ;
       }, "3000")
     isClickable = true
+    zwrd.textContent = "le temps s'est arrété !"
 
 })
